@@ -1,8 +1,6 @@
 # project_FCS_2324
 
-In questo file sono presenti il codice python del progetto di foundations of computer sciences
-e la cartella, contenente i vari file csv rigurdanti le informazioni dei viaggi dei bus e le loro caratteristiche,
-sulle quali vengono eseguite i vari task del progetto (query). 
+In questo file sono presenti il codice python del progetto di foundations of computer science e le cartelle contenenti i vari file csv rigurdanti le informazioni dei viaggi dei bus e le loro caratteristiche,sulle quali vengono eseguite i vari task del progetto (query). 
 
 QUERY DA ESEGUIRE
 1. Extract all trips with busRoute 83
