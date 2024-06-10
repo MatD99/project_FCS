@@ -1,7 +1,7 @@
 # project_FCS_2324
 
 In questo file sono presenti il codice python del progetto di foundations of computer science e le cartelle contenenti i vari file csv rigurdanti le informazioni dei viaggi dei bus e le loro caratteristiche,sulle quali vengono eseguite i vari task del progetto (query). 
-Nella funzione data2(df) inserire token (ghp_KxgDmnpidBEAZUX-rSfXRHMYZcOaUJ41r6vIw dove tra X e r senza trattino, ovvero ...Xr....) per corretta esecuzione. 
+Nella funzione data2(df) il token ghp_KxgDmnpidBEAZUX-rSfXRHMYZcOaUJ41r6vIw non vuole "-" per corretta esecuzione. 
 
 QUERY DA ESEGUIRE
 1. Extract all trips with busRoute 83
